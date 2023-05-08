@@ -12,11 +12,6 @@ A lista de contatos foi feita com um tralho da Ebac, com a função de criar uma
 
 - HTML
 - CSS
-
-
-
-# back end
-
 -JavaScript
 
 
